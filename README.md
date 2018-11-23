@@ -21,7 +21,7 @@ Programming for Data Analytics - Simulating Data Project
 * Which Department<br>
 
 # How to
--1- Numpy to create random data for each category within specific limits
--2- Save random data as individual csv files
--3- Pull the info from the individual files into one file using sql3
--4- Display data using panda, and hue function
+ 1 Numpy to create random data for each category within specific limits <br>
+ 2 Save random data as individual csv files <br>
+ 3 Pull the info from the individual files into one file using sql3 <br>
+ 4 Display data using panda, and hue function <br>
