@@ -10,12 +10,12 @@ Programming for Data Analytics - Simulating Data Project
 * How many PSR per annum/month/quarter
 * When PSR requested - Q1, Q2, Q3, Q4 <br>
 * Savings Made
-* CATEGORICAL VARIABLE 4 POSSIBLE OUTCOMES: Breakdown of Spend - Agriculture; Veterinary; Laboratory; Library <br>
+* CATEGORICAL VARIABLE 4 POSSIBLE OUTCOMES: Breakdown of Spend - Agriculture & Veterinary; Laboratory; Library; Education Specific <br>
 <br>
 <br>
-* Who
-* How Much
-* How Many
-* When
-* Savings Made
-* Which Department
+* Who <br>
+* How Much <br>
+* How Many <br>
+* When <br>
+* Savings Made <br>
+* Which Department<br>
