@@ -8,4 +8,5 @@ Programming for Data Analytics - Simulating Data Project
 * 5 Universities: UCD DCU NUIG UL UCC <br>
 * Capital Spend - €25000 - €1,000,000 <br>
 * When PSR requested - Q1, Q2, Q3, Q4 <br>
+* Savings Made
 * Breakdown of Spend - Agriculture; Veterinary; Laboratory; Library <br>
