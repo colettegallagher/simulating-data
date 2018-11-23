@@ -13,9 +13,9 @@ Programming for Data Analytics - Simulating Data Project
 * CATEGORICAL VARIABLE 4 POSSIBLE OUTCOMES: Breakdown of Spend - Agriculture; Veterinary; Laboratory; Library <br>
 
 
-Who
-How Much
-How Many
-When
-Savings Made
-Which Department
+* Who
+* How Much
+* How Many
+* When
+* Savings Made
+* Which Department
