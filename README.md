@@ -5,7 +5,7 @@ Programming for Data Analytics - Simulating Data Project
 
 **Capital Spend of Universities 2017**
 
-* 5 Universities: UCD DCU NUIG UL UCC <br>
+* 5 Universities: Trinity UCD DCU NUIG UL<br>
 * Capital Spend - €25000 - €1,000,000 <br>
 * How many PSR per annum/month/quarter
 * When PSR requested - Q1, Q2, Q3, Q4 <br>
