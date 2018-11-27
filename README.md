@@ -29,3 +29,5 @@ Programming for Data Analytics - Simulating Data Project
 
 #References
 https://www.youtube.com/watch?v=0xVqLJe9_CY <br>
+https://www.ritchieng.com/creating-dataframe-from-objects/ <br>
+
