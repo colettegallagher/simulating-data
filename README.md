@@ -26,6 +26,9 @@ Programming for Data Analytics - Simulating Data Project
  3 Pull the info from the individual files into one file using sql3 <br>
  4 Display data using panda, and hue function <br>
 
+**Dataframe:
+4 Headings:  Q1-4;   Cost €25,000-€1,000,000;    Category 1-3;   String Variable - UCD, DCU; Trinity; NUIG; UL
+30 random entries**
 
 #References
 https://www.youtube.com/watch?v=0xVqLJe9_CY <br>
