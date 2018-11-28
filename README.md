@@ -36,4 +36,4 @@ https://www.ritchieng.com/creating-dataframe-from-objects/ <br>
 https://stackoverflow.com/questions/32752292/how-to-create-a-data-frame-of-random-integers-with-pandas <br>
 https://stackoverflow.com/questions/47464362/how-to-fill-pandas-dataframe-columns-with-random-dictionary-values<br>
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html<br>
-
+https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/ <br>
