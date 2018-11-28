@@ -34,4 +34,5 @@ Programming for Data Analytics - Simulating Data Project
 https://www.youtube.com/watch?v=0xVqLJe9_CY <br>
 https://www.ritchieng.com/creating-dataframe-from-objects/ <br>
 https://stackoverflow.com/questions/32752292/how-to-create-a-data-frame-of-random-integers-with-pandas <br>
+https://stackoverflow.com/questions/47464362/how-to-fill-pandas-dataframe-columns-with-random-dictionary-values<br>
 
