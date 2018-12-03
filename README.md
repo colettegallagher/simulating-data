@@ -10,7 +10,7 @@ Programming for Data Analytics - Simulating Data Project
 * How many PSR per annum/month/quarter
 * When PSR requested - Q1, Q2, Q3, Q4 <br>
 * Savings Made
-* CATEGORICAL VARIABLE 4 POSSIBLE OUTCOMES: Breakdown of Spend - Agriculture & Veterinary; Laboratory; Library; Education Specific <br>
+* CATEGORICAL VARIABLE 4 POSSIBLE OUTCOMES  - labelled 1-4? - : Breakdown of Spend - Agriculture & Veterinary; Laboratory; Library; Education Specific <br>
 <br>
 <br>
 * Who <br>
@@ -37,3 +37,7 @@ https://stackoverflow.com/questions/32752292/how-to-create-a-data-frame-of-rando
 https://stackoverflow.com/questions/47464362/how-to-fill-pandas-dataframe-columns-with-random-dictionary-values<br>
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html<br>
 https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/ <br>
+
+https://stackoverflow.com/questions/4394145/picking-a-random-word-in-python <br>
+
+https://www.pythoncentral.io/select-random-item-list-tuple-data-structure-python/ <br.
