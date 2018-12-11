@@ -1,43 +1,62 @@
 # simulating-data
 Programming for Data Analytics - Simulating Data Project
 
-## Project Plan
+This repository contains an assignment which creates a data set by simulating a real-world phenomenon.  The data used is based on the capital spend of universities.  The data used is not actual.  It is all synthesised to match as closely as possible real data.  This simulated data set is then analysed using a number of python packages - numpy.random, pandas, seaborn, datetime.  It was created using a Jupyter notebook.
 
-**Capital Spend of Universities 2017**
-
-* 5 Universities: Trinity UCD DCU NUIG UL<br>
-* Capital Spend - €25000 - €1,000,000 <br>
-* How many PSR per annum/month/quarter
-* When PSR requested - Q1, Q2, Q3, Q4 <br>
-* Savings Made
-* CATEGORICAL VARIABLE 4 POSSIBLE OUTCOMES  - labelled 1-4? - : Breakdown of Spend - Agriculture & Veterinary; Laboratory; Library; Education Specific <br>
+The Jupyter notebook contains the following information:<br>
 <br>
-<br>
-* Who <br>
-* How Much <br>
-* How Many <br>
-* When <br>
-* Savings Made <br>
-* Which Department<br>
+• Introduction to the Synthesised Data Set<br>
+• How the Data Set was created<br>
+• An Analysis of the Data Set<br>
+• Conclusion - a summary of the analyse and findings. <br>
+• References
 
-# How to
- 1 Numpy to create random data for each category within specific limits <br>
- 2 Save random data as individual csv files <br>
- 3 Pull the info from the individual files into one file using sql3 <br>
- 4 Display data using panda, and hue function <br>
+Below are instructions on how to run this repository:
 
-**Dataframe:
-4 Headings:  Q1-4;   Cost €25,000-€1,000,000;    Category 1-3;   String Variable - UCD, DCU; Trinity; NUIG; UL
-30 random entries**
+## How to view Jupyter Notebook in this Repository
 
-#References
-https://www.youtube.com/watch?v=0xVqLJe9_CY <br>
-https://www.ritchieng.com/creating-dataframe-from-objects/ <br>
-https://stackoverflow.com/questions/32752292/how-to-create-a-data-frame-of-random-integers-with-pandas <br>
-https://stackoverflow.com/questions/47464362/how-to-fill-pandas-dataframe-columns-with-random-dictionary-values<br>
-https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html<br>
-https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/ <br>
+This repository contains an assignment on a jupyter notebook file.  To open this file in jupyter notebook please follow the following procedure:
 
-https://stackoverflow.com/questions/4394145/picking-a-random-word-in-python <br>
+### Browser
 
-https://www.pythoncentral.io/select-random-item-list-tuple-data-structure-python/ <br.
+Ensure there is a modern browser such as Google Chrome or Moz:lla Firefox installed on your PC
+
+![Google Chrome](https://github.com/colettegallagher/anscombes/blob/master/chrome.JPG)      ![Moz:lla Firefox](https://github.com/colettegallagher/anscombes/blob/master/firefox.JPG)
+
+To Download [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI5-T3xezM3gIVRvlRCh2tCwnZEAAYASAAEgLANvD_BwE&gclsrc=aw.ds)<br>
+To Download [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+### Anaconda
+
+![Anaconda](https://github.com/colettegallagher/anscombes/blob/master/anaconda.JPG)
+
+To Download [Anaconda](https://www.anaconda.com/download/)
+
+Anaconda is a piece of software constructed from Python which contains some extra packages.
+Click on the Python 3.6 Version 64 bit installer *Download* button in the top right-hand corner.  Install as a single user.
+
+This is a very large file so ensure there is a high-speed internet connection before downloading.
+The Anaconda file will be in the downloads folder.  Click on the file and run program to install.
+
+### CMDER
+
+![CMDER](https://github.com/colettegallagher/anscombes/blob/master/cmder.JPG)
+
+To download CMDER full version (unzip) [CMDER](http://cmder.net/)
+
+## Assignment
+
+The assignment can be viewed on GITHUB [box-plot](https://github.com/colettegallagher/box-plot/blob/master/Box-Plot.ipynb)
+
+### Running the Codes
+
+The assignment, in text format, can be found at [box-plot](https://github.com/colettegallagher/box-plot/blob/master/Box-Plot.ipynb).  
+#### To download and open in jupyter notebook
+
+ - Open CMDER on the start menu
+ - Type 'cd' then space and the destination file on the PC where the file is to be open eg c:/new folder/new file
+ - Type 'Git Pull https://github.com/colettegallagher/box-plot/blob/master/Box-Plot.ipynb'
+   This will pull the file on to the PC from Github
+ - Type 'jupyter notebook' to open jupyter on the PC and the pulled file should be on the notebook
+ 
+
