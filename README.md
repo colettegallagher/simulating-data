@@ -1,7 +1,7 @@
 # simulating-data
-Programming for Data Analytics - Simulating Data Project
+## Programming for Data Analytics - Simulating Data Project
 
-This repository contains an assignment which creates a data set by simulating a real-world phenomenon.  The data used is based on the capital spend of five Irish universities.  The data used is **not real**.  It is all synthesised to match as closely as possible real data.  This simulated data set has been analysed using a number of python packages - numpy.random, pandas, seaborn, datetime.  The data set was created using a Jupyter notebook.
+This repository contains an assignment which creates a data set by simulating a real-world phenomenon.  The data used is based on the capital spend of five Irish universities.  The data used is **not real**.  It is all synthesised to match as closely as possible real data.  This simulated data set has been analysed using a number of python libraries - numpy.random, pandas, seaborn, datetime.  The data set was created using a Jupyter notebook.
 
 The Jupyter notebook contains the following information:<br>
 <br>
