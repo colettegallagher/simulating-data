@@ -1,14 +1,14 @@
 # simulating-data
 Programming for Data Analytics - Simulating Data Project
 
-This repository contains an assignment which creates a data set by simulating a real-world phenomenon.  The data used is based on the capital spend of universities.  The data used is not actual.  It is all synthesised to match as closely as possible real data.  This simulated data set is then analysed using a number of python packages - numpy.random, pandas, seaborn, datetime.  It was created using a Jupyter notebook.
+This repository contains an assignment which creates a data set by simulating a real-world phenomenon.  The data used is based on the capital spend of five Irish universities.  The data used is **not real**.  It is all synthesised to match as closely as possible real data.  This simulated data set has been analysed using a number of python packages - numpy.random, pandas, seaborn, datetime.  The data set was created using a Jupyter notebook.
 
 The Jupyter notebook contains the following information:<br>
 <br>
 • Introduction to the Synthesised Data Set<br>
 • How the Data Set was created<br>
 • An Analysis of the Data Set<br>
-• Conclusion - a summary of the analyse and findings. <br>
+• Conclusion - a summary of the analysis and findings. <br>
 • References
 
 Below are instructions on how to run this repository:
@@ -46,16 +46,17 @@ To download CMDER full version (unzip) [CMDER](http://cmder.net/)
 
 ## Assignment
 
-The assignment can be viewed on GITHUB [box-plot](https://github.com/colettegallagher/box-plot/blob/master/Box-Plot.ipynb)
+The assignment can be viewed on GITHUB [box-plot](https://github.com/colettegallagher/simulating-data/blob/master/Simulating%20Data.ipynb)
 
 ### Running the Codes
 
-The assignment, in text format, can be found at [box-plot](https://github.com/colettegallagher/box-plot/blob/master/Box-Plot.ipynb).  
+The assignment, in text format, can be found at [simulating-data](https://github.com/colettegallagher/simulating-data/blob/master/Simulating%20Data.ipynb).  
+
 #### To download and open in jupyter notebook
 
  - Open CMDER on the start menu
  - Type 'cd' then space and the destination file on the PC where the file is to be open eg c:/new folder/new file
- - Type 'Git Pull https://github.com/colettegallagher/box-plot/blob/master/Box-Plot.ipynb'
+ - Type 'Git Pull https://github.com/colettegallagher/simulating-data/blob/master/Simulating%20Data.ipynb'
    This will pull the file on to the PC from Github
  - Type 'jupyter notebook' to open jupyter on the PC and the pulled file should be on the notebook
  
